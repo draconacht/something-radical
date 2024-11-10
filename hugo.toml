@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'something radical'
+theme = 'hugo-theme-stack'

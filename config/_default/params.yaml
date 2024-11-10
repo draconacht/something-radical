@@ -1,0 +1,42 @@
+mainSections:
+  - posts
+rssFullContent: true
+favicon: /favicon.png
+footer:
+  since: 2024
+  customText: website run with love by @draconacht
+dateFormat:
+  published: 02-Jan-2006
+  lastUpdated: 02-Jan-2006 15:04 MST
+sidebar:
+  subtitle: a macro-microblog
+  avatar:
+    enabled: true
+    local: true
+    src: img/avatar.png
+article:
+  headingAnchor: false
+  math: false
+  readingTime: false
+  license:
+    enabled: true
+    default: licensed under CC BY-NC-SA 4.0
+widgets:
+  homepage:
+    - type: search
+    - type: archives
+      params:
+        limit: 5
+    - type: categories
+      params:
+        limit: 10
+  page:
+    - type: toc
+colorScheme:
+  toggle: true
+  default: auto
+imageProcessing:
+  cover:
+    enabled: true
+  content:
+    enabled: true
