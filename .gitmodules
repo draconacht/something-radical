@@ -1,0 +1,3 @@
+[submodule "theme"]
+    path = themes/hugo-theme-stack
+    url = https://github.com/draconacht/hugo-theme-stack-sharp
