@@ -1,7 +1,7 @@
 mainSections:
   - posts
 rssFullContent: true
-favicon: /favicon.png
+favicon: favicon.png
 footer:
   since: 2024
   customText: website run with love by @draconacht
