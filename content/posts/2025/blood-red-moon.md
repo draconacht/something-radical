@@ -26,6 +26,21 @@ Rejoice in the tonight; Numb the worries, numb the pain
 Escape your turtle shell, demolish your cocoon  
 Rewrite fate with a broken pencil, under the blood red moon  
 
+Hark o mob of skeletons, of complacency-withered bone\
+All vice and all taboo, exercise, enjoy, and condone\
+Play an orchestra of dissonance, with no octave, chord, or tune\
+An ode to the moral anarchy, of the blood red moon
+
+Praise the bride dressed in crimson, with a brand new garment sewn\
+Bless her eternal marriage, to her celestial throne\
+The recurring nightly parade, tonight not white but maroon\
+Solemnise the wedding vows, of the blood red moon
+
+Let the desires in your heart, drive you out of control\
+Show the slavery to your instincts, which is branded upon your soul\
+Salvage the crypts of your memory, covered in glyphs and rune\
+And process the film under the light, of the blood red moon.
+
 Fallen from grace, orphans of the divine  
 Prisoners of space, sentenced to time  
 Submit to pandemonium, rot and then bloom  

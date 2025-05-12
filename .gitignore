@@ -5,3 +5,6 @@ public/**
 *.lock
 resources/_gen/**
 .env
+
+*_draft.md
+*-draft.md
