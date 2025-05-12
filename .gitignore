@@ -4,3 +4,4 @@ tina/**
 public/**
 *.lock
 resources/_gen/**
+.env
