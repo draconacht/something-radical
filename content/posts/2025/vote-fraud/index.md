@@ -1,19 +1,21 @@
 ---
-title: please stop making up vote fraud
+title: please don't chase random people over shaky voter fraud data.
 date: 2025-08-09T12:30:00.000Z
+image: thumb.png
 ---
 
-{{< figure src="thumb.png" >}}
+for some reason much of my twitter feed (i still use all three) is excited about Rahul Gandhi's claims of vote fraud. I beg to differ.
 
 TL;DR google hanlon's razor
 
+<!--more-->
+
 > Disclaimer: i don't like politics or writing about it. what's particularly aggrevated me here is that everyone is wrong and no one is trying to actually solve the problem presented here. evidently the ECI's data is horrendously maintained, and RaGa is sleepwalking through a conspiracy theory to accuse officials of malice. take this as a lesson in statistics and manipulation, not an attack or praise for any given political party.
 
-> Disclaimer 2: in case someone tries to take anything here out of context, i hate all of you. both political parties, ECI, twitter, reddit, "progressives" or racists. fuck you. you are all embarrassing and you're going to misremember how wrong you were about this.
+> Disclaimer 2: in case someone tries to take anything here out of context, fuck you. both political parties, ECI, twitter, reddit, "progressives" or racists. fuck you. you are all embarrassing and you're going to misremember how wrong you were about this.
 
 > Disclaimer 3: don't take this as an argument that there is no electoral fraud that the BJP does. i'm sure there's strategies they use for excluding voters they don't like. my anger over the opposition's incompetent investigation remains still justified.
 
-for some reason much of my twitter feed (i still use all three) is excited about Rahul Gandhi's claims of vote fraud. I beg to differ though.
 
 i don't know or care much about politics, but I do know data and how people lie with it.
 
