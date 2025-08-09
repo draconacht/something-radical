@@ -11,6 +11,8 @@ TL;DR google hanlon's razor
 
 > Disclaimer 2: in case someone tries to take anything here out of context, i hate all of you. both political parties, ECI, twitter, reddit, "progressives" or racists. fuck you. you are all embarrassing and you're going to misremember how wrong you were about this.
 
+> Disclaimer 3: don't take this as an argument that there is no electoral fraud that the BJP does. i'm sure there's strategies they use for excluding voters they don't like. my anger over the opposition's incompetent investigation remains still justified.
+
 for some reason much of my twitter feed (i still use all three) is excited about Rahul Gandhi's claims of vote fraud. I beg to differ though.
 
 i don't know or care much about politics, but I do know data and how people lie with it.
