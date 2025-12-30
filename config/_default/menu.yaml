@@ -11,9 +11,9 @@ social:
     url: https://github.com/draconacht
     params:
       icon: brand-github
-  - identifier: twitter
-    name: Twitter
-    url: https://twitter.com/draconacht
+  - identifier: bluesky
+    name: Bluesky
+    url: https://bsky.app/profile/draconacht.dev
     params:
       icon: brand-twitter
   - identifier: mastodon
