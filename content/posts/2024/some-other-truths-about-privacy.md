@@ -1,7 +1,7 @@
 ---
 title: some other truths about privacy
 categories:
-  - Cybersecurity
+  - cybersecurity
 date: 2024-07-10T18:30:00.000Z
 ---
 
