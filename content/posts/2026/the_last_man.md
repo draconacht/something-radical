@@ -3,9 +3,9 @@ date: 2026-02-09T12:30:00.000Z
 categories:
 title: the last man to have died honourably.
 ---
-IN MEMORY OF NIKRAT KALPAN 
-THE LAST MAN TO HAVE DIED HONOURABLY 
-HE WHOSE HEART BEAT LOUDEST IN DEATH 
+> IN MEMORY OF NIKRAT KALPAN
+> THE LAST MAN TO HAVE DIED HONOURABLY
+> HE WHOSE HEART BEAT LOUDEST IN DEATH
 
 this statue commemorates Kalpan's death at the Battle of Humsat. the battle occurred at a transitory period in the 18th century, just before archers and swordsmen in armies were replaced with riflemen and artillery. while statues in public spaces or intersections portray him charging on a horse, the one in this museum shows him skewered with numerous arrows and is considered more accurate to the myth. pragmatically speaking we believe that the story of his death was exaggerated if not entirely fabricated, but the mythology around it carries a lot of weight for the locals in this part of the country.
 
