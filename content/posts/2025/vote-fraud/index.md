@@ -2,6 +2,8 @@
 title: please don't chase random people over shaky voter fraud data.
 date: 2025-08-09T12:30:00.000Z
 image: thumb.png
+categories:
+  - non-fiction
 ---
 
 for some reason much of my twitter feed (i still use all three) is excited about Rahul Gandhi's claims of vote fraud. I beg to differ.

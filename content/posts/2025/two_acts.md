@@ -1,6 +1,7 @@
 ---
 title: a short play in two acts.
 categories:
+  - prose
 date: 2025-11-22T18:30:00.000Z
 ---
  
