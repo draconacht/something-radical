@@ -1,6 +1,6 @@
 ---
 title: sermon of the baphomet
-date: 2026-02-25T12:30:00.000Z
+date: 2026-02-24T12:30:00.000Z
 categories:
   - prose
 ---
