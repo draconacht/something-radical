@@ -1,6 +1,8 @@
 ---
 title: fine,  i'll talk about the fuckass buttons
 date: 2026-04-29T18:30:00.000Z
+categories:
+  - non-fiction
 ---
 the premise is like this, "in front of you are two buttons. press the red button and you survive, press the blue button and you only survive if half of all people press the button."
 
