@@ -6,6 +6,8 @@ categories:
 ---
 the premise is like this, "in front of you are two buttons. press the red button and you survive, press the blue button and you only survive if half of all people press the button."
 
+<!--more-->
+
 i don't really know where the problem originates from. it was on a random twitter poll in 2023 and the discourse repeats itself whenever some checkmark decides to heat the leftovers for a quick buck. i'll approach this in a few steps to keep my sanity intact.
 
 #### the correct answer is obviously {{COLOUR}}!
