@@ -117,6 +117,5 @@ most of the stuff above went into production code. most of the stuff here involv
 - do good things, probably actually volunteer somewhere
 - last year was stable for exercise stuff, want to reach new heights in '26
 - finances were balanced in 2025 and should be balanced in 2026 as well all things considered
-- find cuntier things to wear and wear them
 - try to get into fencing, even if it's impossible
 - write more blog posts that suck less and get actual readers
