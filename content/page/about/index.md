@@ -2,12 +2,12 @@
 title: "about"
 slug: "about"
 outputs:
-    - html
+  - html
 menu:
-    main:
-        weight: 4
-        params: 
-            icon: user
+  main:
+    weight: 4
+    params:
+      icon: user
 ---
 
 ### what is something radical?
@@ -20,15 +20,15 @@ yes it's an Utena reference. maybe i'll write about it someday.
 
 ### what is a macro-microblog?
 
-whatever goes here i would probably post on twitter. but here i don't have to think about character limits or the like. plus i get to have my own aesthetic which is cool.
+whatever goes here i would probably post on bluesky / mastodon. but here i don't have to think about character limits or the like. plus i get to have my own aesthetic which is cool.
 
-### why not just post on twitter?
+### why not just post there?
 
-i also post on twitter. this format just lets me write in a richer text format, and store and categorise my thoughts more effectively.
+i also post on bluesky. this format just lets me write in a richer text format, and store and categorise my thoughts more effectively.
 
 ### why did you choose these colours in particular?
 
-plain dark mode is too uninspired. 
+plain dark mode is too uninspired.
 
 ### why did you use Hugo with a pre-established theme instead of making your own blog from scratch?
 
