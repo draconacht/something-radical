@@ -2,12 +2,8 @@
 title: notes on TESCREAL
 date: 2026-10-01T12:30:00.000Z
 categories: non-fiction
+description: grinding an axe.
 ---
-
-grinding an axe.
-
-<!-- more -->
-
 > **disclaimer:** i use the terms AI and LLM interchangeably here. this is because we're not talking about science fiction risks, but about people in the present taking actions in the present over these matters.
 
 > **disclaimer 2:** rather than the term TESCREAL, which is probably sensible and refers to a group of people who believe certain things, i will refer to them as lesswrongian because it means much the same thing and is evocative of a more accurate kind of person.
