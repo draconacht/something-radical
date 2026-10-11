@@ -46,7 +46,7 @@ E: seems that only a God could save us
 
 _(they laugh)_
 
-\_excerpts from the short story 'Vignesh Gaekwad, The Miracle Detective', written by famous author K. Mangal. the story appears in the collection 'Riverbeds', a textbook in the 8th grade literature syllabus. it's a widely-read and widely-forgotten story. while of little interest to students, teachers find the writing subversive, and attribute subtle themes to it such as 'Mysterious Nature of the Divine'.
+_excerpts from the short story 'Vignesh Gaekwad, The Miracle Detective', written by famous author K. Mangal. the story appears in the collection 'Riverbeds', a textbook in the 8th grade literature syllabus. it's a widely-read and widely-forgotten story. while of little interest to students, teachers find the writing subversive, and attribute subtle themes to it such as 'Mysterious Nature of the Divine'._
 
 > author's commentary: kids nowadays read a lot of detective stories. so i wanted to write a story like a detective story. Gaekwad is a way for me to instill virtue into young readers, of whom i was one too long ago, and teach them about the importance of faith in society.
 
