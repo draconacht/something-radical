@@ -10,10 +10,7 @@ dateFormat:
   lastUpdated: 02-Jan-2006 15:04 MST
 sidebar:
   subtitle: a macro-microblog
-  avatar:
-    enabled: true
-    local: true
-    src: img/avatar.png
+  avatar: img/avatar.png
 article:
   headingAnchor: false
   math: false
@@ -40,3 +37,5 @@ imageProcessing:
     enabled: true
   content:
     enabled: true
+comments:
+  enabled: false

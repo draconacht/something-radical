@@ -1,3 +1,4 @@
 [submodule "themes/hugo-theme-stack-sharp"]
 	path = themes/hugo-theme-stack-sharp
 	url = https://github.com/draconacht/hugo-theme-stack-sharp
+	branch = master
